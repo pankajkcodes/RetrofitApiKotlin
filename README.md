@@ -1,3 +1,3 @@
 # RetrofitApiKotlin
 
-![Screenshot_1639534698](https://user-images.githubusercontent.com/74593517/146477618-d58fc08a-51e5-46d4-afc9-902d940be650.png)
+![Screenshot_1639706967](https://user-images.githubusercontent.com/74593517/146477776-d0130640-a164-4091-a383-1acf4bed8548.png)
